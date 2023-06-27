@@ -1,2 +1,2 @@
 # ApplicationHelper
-A pythin script for helping in job applications
+A python script for helping in job applications
